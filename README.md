@@ -16,106 +16,108 @@ Execute the program
 
 # CODE
 
-
+<!DOCTYPE html>
 <html>
-<title>TIME TABLE - ODD JUNIOR</title>
+    <head></head>
 <body>
-<table border="6" align="center" cellspacing="5">
-<caption><b>TIME TABLE - ODD JUNIOR</b></caption>
-<tr>
-<th bgcolor="Thistle">Days/Time</th>
-<th bgcolor="Thistle">8.00AM-10.00AM</th>
-<th bgcolor="Thistle">10.00AM-12.00PM</th>
-<th bgcolor="Thistle">12.00AM-1.00PM</th>
-<th bgcolor="Thistle">1.00PM-3.00PM</th>
-<th bgcolor="Thistle">3.00PM-5.00PM</th>
-</tr>
-<tr>
-<th bgcolor="Thistle">MONDAY</th>
-<td bgcolor="Lavender" align="center">english</td>
-<td bgcolor="Lavender" align="center">python</td>
-<td bgcolor="Lavender" align="center">LUNCH</th>
-<td bgcolor="Lavender">Physics</td>
-<td bgcolor="Lavender" align="center">Free Slot </td>
-</tr>
-<tr>
-<th bgcolor="Thistle">TUESDAY</th>
-<td bgcolor="Lavender">English</td>
-<td bgcolor="Lavender" align="center">soft skills</td>
-<td bgcolor="Lavender" align="center">LUNCH</td>
-<td bgcolor="Lavender" align="center">BEEE</td>
-<td bgcolor="Lavender" align="center">Free Slot</td>
-</tr>
-<tr>
-<th bgcolor="Thistle">WEDNESDAY</th>
-<td bgcolor="Lavender">Fundamentals of Web</td>
-<td bgcolor="Lavender" align="center">Free Slot</td>
-<td bgcolor="Lavender" align="center">LUNCH</td>
-<td bgcolor="Lavender">Free Slot</td>
-<td bgcolor="Lavender">Free Slot</td>
-</tr>
-<tr>
-<th bgcolor="Thistle">THURSDAY</th>
-<td bgcolor="Lavender" align="center">Fundamentals of Web</td>
-<td bgcolor="Lavender">BEEE</td>
-<td bgcolor="Lavender" align="center">LUNCH</td>
-<td bgcolor="Lavender">python</td>
-<td bgcolor="Lavender" align="center">Maths</td>
-</tr>
-<tr>
-<th bgcolor="Thistle">FRIDAY</th>
-<td bgcolor="Lavender" align="center">Maths</td>
-<td bgcolor="Lavender" align="center">Fundamentals of Web</td>
-<td bgcolor="Lavender" align="center">LUNCH</td>
-<td bgcolor="Lavender">Free Slot</td>
-<td bgcolor="Lavender">physics</td>
-</tr>
-</table>
+    <IMG src="C:\Users\admin\ODD2023-WT-Ex-03-Timetable\logo.png"
+	height="100" width="788" align="center" border="8">
+    <h1>     </h1>
 
-<table align="center" cellspacing="3" cellpadding="15" border="2">
-<tr align="center">
-<th bgcolor="LightGrey">S.NO</th>
-<th bgcolor="LightGrey">SUBJECT CODE</th>
-<th bgcolor="LightGrey">SUBJECT NAME</th>
-</tr>
-<tr>
-<th bgcolor="LightGrey">1</th>
-<td align="center" bgcolor="WhiteSmoke">19MAI414</td>
-<td bgcolor="WhiteSmoke">Fundamentals of Web Applications Development</td>
-</tr>
-<tr>
-<th bgcolor="LightGrey">2</th>
-<td align="center" bgcolor="WhiteSmoke">19CY205</td>
-<td bgcolor="WhiteSmoke">Principles of Chemistry in Engineering</td>
-</tr>
-<tr>
-<th bgcolor="LightGrey">3</th>
-<td align="center" bgcolor="WhiteSmoke">19MA201</td>
-<td bgcolor="WhiteSmoke">Calculus and Matrix Algebra</td>
-</tr>
-<tr>
-<th bgcolor="LightGrey">4</th>
-<td align="center" bgcolor="WhiteSmoke">19AI302</td>
-<td  bgcolor="WhiteSmoke">Engineering Design and Modelling</td>
-</tr>
-<tr>
-<th bgcolor="LightGrey">5</th>
-<td align="center" bgcolor="WhiteSmoke">19EN101</td>
-<td bgcolor="WhiteSmoke">Communicative English</td>
-</tr>
-<tr>
-<th bgcolor="LightGrey">6</th>
-<td align="center" bgcolor="WhiteSmoke">19AI304</td>
-<td bgcolor="WhiteSmoke">Fundamentals of C Programming</td>
-</tr>
-<tr>
-<th bgcolor="LightGrey">7</th>
-<td align="center" bgcolor="WhiteSmoke">19EY701</td>
-<td bgcolor="WhiteSmoke">Soft Skills</td>
-</tr>
+    <table border="14" cellspacing="0" align="left"  >
+        
+        <tr bgcolor="LightBlue">
+            <th align= "center"  colspan="6" height="50" width="100"><h1>TIME TABLE</h1></th>
+        </tr>
+        <tr bgcolor="#728FCE">
+            <th align= "center"  colspan="1"  height="40" width="80"><b>NAME</b></th>
+            <th align= "center"  colspan="2"  bgcolor="LightSteelBlue" height="40" width="80"><b>Salini A</b></th>
+            <th align= "center"  colspan="1"  height="40" width="80"><b>REF.NO</b></th>
+            <th align= "center"  colspan="2"  bgcolor="LightSteelBlue" height="40" width="80"><b>2300878</b></th>
+        </tr>
+        <tr bgcolor="#A0D6B4">
+            <th align= "center"  colspan="6" height="40" width="50"> <b>SEMESTER-1 ODD-JUNIOR(2023-2024)</b></th>
+        </tr>
+       
+        
+        <tr bgcolor="LightBlue">
+            
+            <td align="center"  height="50"
+                width="125"><br>
+                <b>Day/Period</b></br>
+            </td>
+            <td align="center" height="50"
+                width="125">
+                <b>I<br>8:00-10:00</b>
+            </td>
+            <td align="center" height="50"
+                width="125">
+                <b>II<br>10:00-12:00</b>
+            </td>
+            <td align="center" height="50"
+                width="125">
+                <b>12:00-1:00</b>
+            </td>
+            <td align="center" height="50"
+                width="125">
+                <b>III<br>1:00-3:00</b>
+            </td>
+            <td align="center" height="50"
+                width="125">
+                <b>IV<br>3:00-5:00</b>
+            </td>
+        </tr>
+        <tr bgcolor="LightSteelBlue">
+            <td align="center" height="80">
+                <b>Monday</b></td>
+            <td align="center" bgcolor="#e7feff "height="50">19CY205/ Principles of chemistry in engineering</td>
+            <td align="center" bgcolor="#e7feff " height="50">19EY701/ Soft Skills</td>
+            <td rowspan="5" align="center" height="50">
+                <h1>L<br>U<br>N<br>C<br>H</h1>
+            </td>
+            <td bgcolor="#e7feff " align="center"height="50">19MA201/ Calculus and Matrix Algebra</td>
+            <td align="center" bgcolor="#e7feff " height="50">---</td>
+        </tr>
+        <tr bgcolor="LightSteelBlue">
+            <td align="center"  height="80">
+                <b>Tuesday</b>
+            </td>
+            <td  bgcolor="#e7feff "align="center"height="50">19EN101/ Communicative English</td>
+            <td align="center" bgcolor="#e7feff "height="50">19MA201/ Calculus and Matrix Algebra</td>
+            <td align="center" bgcolor="#e7feff "height="50">---</td>
+            <td align="center" bgcolor="#e7feff " height="50">---</td>
+            
+        </tr>
+        <tr bgcolor="LightSteelBlue">
+            <td align="center" height="80">
+                <b>Wednesday</b>
+            </td>
+            <td align="center" bgcolor="#e7feff " height="50">19CY205/ Principles of chemistry in engineering</td>
+            <td align="center" bgcolor="#e7feff "height="50">19AI414/ Fundamentals of Web Application Development</td>
+            <td align="center" bgcolor="#e7feff " height="50">---</td>
+            <td align="center" bgcolor="#e7feff " height="50">---</td>
+        </tr>
+        <tr bgcolor="LightSteelBlue">
+            <td align="center" height="80">
+                <b>Thursday</b>
+            </td>
+            <td align="center" bgcolor="#e7feff" height="50">19AI414/ Fundamentals of Web Application Developmentc</td>
+            <td align="center"  bgcolor="#e7feff "height="50">19AI301/ Python Programming</td>
+            <td align="center" bgcolor="#e7feff "height="50">19EN101/ Communicative English</td>
+            <td  align="center" bgcolor="#e7feff " height="50">---</td>
+        </tr>
+        <tr bgcolor="LightSteelBlue">
+            <td align="center"  height="80">
+                <b>Friday</b>
+            </td>
+            <td align="center" bgcolor="#e7feff "height="50">19AI301/ Python Programming</td>
+            <td align="center" bgcolor="#e7feff "height="50">19AI414/ Fundamentals of Web Application Developmentc</td>
+            <td align="center" bgcolor="#e7feff " height="50">---</td>
+            <td align="center" bgcolor="#e7feff " height="50">---</td>
+        </tr>
+    </table>
 </body>
 </html>
-
 # OUPUT
 
-![Screenshot 2023-11-22 044156](https://github.com/NiranjaniC/ODD2023-WT-Ex-03-Timetable/assets/145742800/3a18cd90-f20c-4c88-b798-83af8fc4a480)
+![Screenshot 2023-11-22 044948](https://github.com/NiranjaniC/ODD2023-WT-Ex-03-Timetable/assets/145742800/8529d264-08be-4afd-b2f5-341072e24591)
