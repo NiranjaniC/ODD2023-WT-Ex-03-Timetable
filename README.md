@@ -1,6 +1,6 @@
-Name: Niranjani.C
-Reference Number : 23009789
 # Ex-04-Timetable
+Name: Niranjani.C
+Registration Number : 212223220069
 ## AIM
 To Write a html webpage page to display your timetable.
 
@@ -121,3 +121,5 @@ Execute the program
 # OUPUT
 
 ![Screenshot 2023-11-22 044948](https://github.com/NiranjaniC/ODD2023-WT-Ex-03-Timetable/assets/145742800/8529d264-08be-4afd-b2f5-341072e24591)
+## RESULT:
+This program executed successfully.
